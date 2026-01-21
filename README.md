@@ -4,7 +4,6 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue?style=flat-square&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-brightgreen?style=flat-square&logo=android)
-![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Android-green?style=flat-square&logo=android)
 
 **A modern Android mobile application for managing donations, built with Jetpack Compose and Kotlin**
