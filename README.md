@@ -8,7 +8,7 @@
 
 **A modern Android mobile application for managing donations, built with Jetpack Compose and Kotlin**
 
-[Features](#features) • [Screenshots](#screenshots) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Architecture](#architecture) • [Contributing](#contributing)
+[Features](#features)  • [Installation](#installation) • [Tech Stack](#tech-stack) • [Architecture](#architecture) • [Contributing](#contributing)
 
 </div>
 
@@ -18,7 +18,6 @@
 
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Getting Started](#getting-started)
@@ -62,16 +61,6 @@ The application aims to provide users with an intuitive interface for:
 - 📱 **Responsive Design**: Optimized for various screen sizes
 - ⚡ **Performance**: Fast and efficient with minimal resource usage
 - 🎯 **Intuitive Navigation**: Easy-to-use navigation patterns
-
----
-
-## 📱 Screenshots
-
-> **Note**: Add screenshots of your app here to showcase the UI and key features
-
-```
-[Add screenshots in a grid layout]
-```
 
 ---
 
