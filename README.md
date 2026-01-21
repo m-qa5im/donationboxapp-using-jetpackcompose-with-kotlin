@@ -302,41 +302,11 @@ This project follows the [Kotlin Coding Conventions](https://kotlinlang.org/docs
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-```
-MIT License
-
-Copyright (c) 2024 m-qa5im
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
 ## 📧 Contact
 
 **Project Maintainer**: m-qa5im
 
-- GitHub: [@m-qa5im](https://github.com/m-qa5im)
+- GitHub: [@m-qa5im](https://github.com/m-qa5im), [awaisali532](https://github.com/awaisali532)  
 - Project Link: [https://github.com/m-qa5im/donationboxapp-using-jetpackcompose-with-kotlin](https://github.com/m-qa5im/donationboxapp-using-jetpackcompose-with-kotlin)
 
 ---
@@ -360,25 +330,6 @@ SOFTWARE.
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Add multi-currency support
-- [ ] Implement cloud sync functionality
-- [ ] Add export to PDF/CSV features
-- [ ] Include donation receipt generation
-- [ ] Support for recurring donations
-- [ ] Integration with charity APIs
-- [ ] Widget support for quick access
-- [ ] Multi-language support
-- [ ] Enhanced analytics and insights
-
----
-
-## 📈 Project Status
-
-This project is actively maintained and under development. Check the [Issues](https://github.com/m-qa5im/donationboxapp-using-jetpackcompose-with-kotlin/issues) page for current tasks and feature requests.
-
----
 
 <div align="center">
 
